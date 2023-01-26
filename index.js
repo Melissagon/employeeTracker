@@ -7,7 +7,7 @@ init();
 
 // Display logo text, load initial prompts
 function init() {
-  const logoTxt = logo({ name: "Employee CMS" }).render();
+  const logoTxt = logo({ name: "Employee C M S" }).render();
 
   console.log(logoTxt);
 
